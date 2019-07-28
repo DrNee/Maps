@@ -4,4 +4,4 @@ In this visualization, Berkeley is segmented into regions, where each region is 
 
 In the resulting map, each dot represents a restaurant. The color of the dot is determined by the restaurant's location. For example, downtown restaurants are colored green. The user that generated this map could have a strong preference for Southside restaurants, and so the southern regions are colored yellow.
 
-![alt text](maps_gui_pic.PNG)
+![alt text](maps_gui_pic.png)
